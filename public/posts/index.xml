@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ctel-master</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Ctel-master</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 06:06:06 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>«Код»</title>
+      <link>http://localhost:1313/posts/main/</link>
+      <pubDate>Mon, 01 Apr 2024 06:06:06 +0300</pubDate>
+      <guid>http://localhost:1313/posts/main/</guid>
+      <description>Пианино на JavaScript для Chrome Мы нашли готовый чужой код и немного его доработали, чтобы он стал проще и понятнее. В результате у нас получилось некое подобие программного пианино, сейчас покажем внутренности.
+Зачем? Да просто так.
+Логика работы Проект состоит из трёх файлов: HTML-страницы, CSS-стилей и JS-скрипта.
+HTML-страница отвечает за «мясо» проекта: надписи, заголовки, подключение звуков и сборку всего проекта в одной точке. Но страница сама по себе ничего не сумеет: мы просто разместим на ней нужные блоки, а вся анимация и поведение задаются в двух других файлах.</description>
+    </item>
+  </channel>
+</rss>
